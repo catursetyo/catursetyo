@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.redd.it/qbxwwz7u60pb1.gif" width="800" height="250" alt="banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Catur Setyo Ragil</h1>
 <h3 align="center">a first-year Information Technology student at Institut Teknologi Sepuluh Nopember.</h3>
 <h3 align="center">🌱 I’m currently learning AI, Data Science, and Backend Development.</h3>
