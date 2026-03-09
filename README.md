@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.redd.it/qbxwwz7u60pb1.gif" width="800" height="250" alt="banner">
+  <img src="https://i.giphy.com/UsVX1QDSLlCjw8PpJS.webp" width="800" height="250" alt="banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Catur Setyo Ragil</h1>
@@ -7,7 +7,14 @@
 <h3 align="center">🌱 I’m currently learning AI, Data Science, and Backend Development.</h3>
 
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/catur.styo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/catursetyo)
+<p align="center">
+  <a href="https://instagram.com/catur.styo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/catursetyo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 # Tech Stack:
 <p align="center">
