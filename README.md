@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/3b7BGH9f9EvT1eDbLa.webp" width="800" height="250" alt="banner">
+  <img src="/bocchi.webp" width="800" height="250" alt="banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Catur Setyo Ragil</h1>
